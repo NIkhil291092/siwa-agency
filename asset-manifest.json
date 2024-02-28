@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/siwa-agency/static/css/main.c90382e7.css",
-    "main.js": "/siwa-agency/static/js/main.41e05349.js",
+    "main.css": "/siwa-agency/static/css/main.698bc857.css",
+    "main.js": "/siwa-agency/static/js/main.40b32947.js",
+    "static/media/astronaut.webp": "/siwa-agency/static/media/astronaut.2431ff33f589dd1ec5ce.webp",
     "static/media/logo.webp": "/siwa-agency/static/media/logo.196171ea341749e83b88.webp",
     "index.html": "/siwa-agency/index.html",
-    "main.c90382e7.css.map": "/siwa-agency/static/css/main.c90382e7.css.map",
-    "main.41e05349.js.map": "/siwa-agency/static/js/main.41e05349.js.map"
+    "main.698bc857.css.map": "/siwa-agency/static/css/main.698bc857.css.map",
+    "main.40b32947.js.map": "/siwa-agency/static/js/main.40b32947.js.map"
   },
   "entrypoints": [
-    "static/css/main.c90382e7.css",
-    "static/js/main.41e05349.js"
+    "static/css/main.698bc857.css",
+    "static/js/main.40b32947.js"
   ]
 }
